@@ -1,0 +1,9 @@
+﻿Bypassing the main Constructor of the class objects, enabling me to use the methods within the class
+without me needing to pass a value to the constructor.
+E.G:
+I could bypass the constructor if the access modifier is set to private, using:
+
+    Runtime.GetUninitializedObject(typeof(CLASS_NAME)) as CLASS_NAME;
+
+this allows me to access data that would have been blocked otherwise.
+

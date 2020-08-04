@@ -1,0 +1,13 @@
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.exe
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.deps.json
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.runtimeconfig.json
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.runtimeconfig.dev.json
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\bin\Debug\netcoreapp3.1\InterestingConcepts.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.csprojAssemblyReference.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.AssemblyInfoInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.AssemblyInfo.cs
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.csproj.CoreCompileInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\InterestingConcepts\InterestingConcepts\obj\Debug\netcoreapp3.1\InterestingConcepts.genruntimeconfig.cache
